@@ -2,9 +2,9 @@ body {
   background-color: #383C3F;
 }
 
-//button1
 
-.button {
+
+.button1 {
   background-color: #4CAF50; 
 border:none ;
   color: white;
@@ -19,7 +19,7 @@ border:none ;
 
 }
 
-.button:hover {
+.button1:hover {
  border-left : 5pt solid #4CAF50;
  border-right : 5pt solid #4CAF50;
 	border-radius: 5px;
